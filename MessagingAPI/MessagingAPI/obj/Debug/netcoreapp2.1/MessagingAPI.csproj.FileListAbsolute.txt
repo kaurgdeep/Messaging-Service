@@ -1,0 +1,14 @@
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\bin\Debug\netcoreapp2.1\MessagingAPI.deps.json
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\bin\Debug\netcoreapp2.1\MessagingAPI.runtimeconfig.json
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\bin\Debug\netcoreapp2.1\MessagingAPI.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\bin\Debug\netcoreapp2.1\MessagingAPI.dll
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.csprojAssemblyReference.cache
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.RazorAssemblyInfo.cache
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.RazorAssemblyInfo.cs
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\bin\Debug\netcoreapp2.1\MessagingAPI.pdb
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.dll
+C:\Users\gagandeep\Desktop\projects\Messaging-Service\MessagingAPI\MessagingAPI\obj\Debug\netcoreapp2.1\MessagingAPI.pdb
