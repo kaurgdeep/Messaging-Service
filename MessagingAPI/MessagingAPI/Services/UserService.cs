@@ -49,7 +49,7 @@ namespace MessagingAPI.Services
             //    ;
             //return users;
 
-             return Context.Users.Where(filter).Skip(skip).Take(take);
+             return Context.Users.Include(_ => _.UserFriends).Where(filter).Skip(skip).Take(take);
 
         }
 
