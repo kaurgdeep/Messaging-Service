@@ -1,0 +1,9 @@
+<div class="container">
+    <h2>Login</h2>
+    <app-login [busy]="apiCall" [errorStatus]="errorStatus" (loginClick)="login($event)">
+    </app-login>
+    <p></p>
+    <a [routerLink]="['/register']">Not registered yet? Register</a>
+
+    
+</div>

@@ -1,0 +1,9 @@
+<div class="container">
+    <h2>Register</h2>
+    <app-register [busy]="apiCall" [errorStatus]="errorStatus" (registerClick)="register($event)">
+    </app-register>
+    <p></p>
+    <a [routerLink]="['/login']">Already have an account? Login</a>
+
+    
+</div>
